@@ -48,7 +48,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: AppColors.background,
-      appBar: const AppHeader(title: 'Encourage'),
+      appBar: const AppHeader(title: 'MindReflect'),
       body: _isLoading
           ? const Center(child: CircularProgressIndicator())
           : _buildFeed(),

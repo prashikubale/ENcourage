@@ -59,7 +59,7 @@ class _PostDetailPageState extends State<PostDetailPage> {
     return Scaffold(
       backgroundColor: AppColors.background,
       appBar: AppHeader(
-        title: 'Encourage',
+        title: 'MindReflect',
         showBack: true,
         onBack: () => Navigator.of(context).pop(),
       ),

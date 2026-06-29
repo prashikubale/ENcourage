@@ -7,7 +7,7 @@ import '../../core/theme/spacing.dart';
 class AppHeader extends StatelessWidget implements PreferredSizeWidget {
   const AppHeader({
     super.key,
-    this.title = 'Encourage',
+    this.title = 'MindReflect',
     this.showBack = false,
     this.onBack,
     this.trailing,
