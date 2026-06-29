@@ -1,0 +1,84 @@
+{
+  "communities": [
+    {
+      "id": "study",
+      "name": "Study",
+      "description": "Focus zones, pomodoro timers, and quiet ambient sounds for deep work.",
+      "icon": "local_library",
+      "color": "secondary_container",
+      "memberCount": 12400,
+      "postCount": 843,
+      "isJoined": true
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
+      "description": "Curated watchlists, reviews, and immersive cinematic discussions.",
+      "icon": "movie",
+      "color": "tertiary_container",
+      "memberCount": 28900,
+      "postCount": 2145,
+      "isJoined": false
+    },
+    {
+      "id": "mental_health",
+      "name": "Mental Health",
+      "description": "Guided meditations, breathing exercises, and safe spaces to unwind.",
+      "icon": "psychology",
+      "color": "primary_fixed",
+      "memberCount": 45200,
+      "postCount": 5321,
+      "isJoined": true
+    },
+    {
+      "id": "fitness",
+      "name": "Fitness",
+      "description": "Workout routines, active recovery tips, and nutritional guides.",
+      "icon": "fitness_center",
+      "color": "surface_container_high",
+      "memberCount": 19600,
+      "postCount": 1843,
+      "isJoined": false
+    },
+    {
+      "id": "books",
+      "name": "Books",
+      "description": "Reading lists, book reviews, and literary discussions for every taste.",
+      "icon": "book",
+      "color": "secondary_container",
+      "memberCount": 33100,
+      "postCount": 3204,
+      "isJoined": true
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "description": "Playlists, artist spotlights, and soulful discussions about sound.",
+      "icon": "music_note",
+      "color": "tertiary_fixed",
+      "memberCount": 41700,
+      "postCount": 4782,
+      "isJoined": false
+    },
+    {
+      "id": "photography",
+      "name": "Photography",
+      "description": "Share your lens view, tips, and appreciation for visual art.",
+      "icon": "photo_camera",
+      "color": "primary_container",
+      "memberCount": 22300,
+      "postCount": 2987,
+      "isJoined": false
+    },
+    {
+      "id": "travel",
+      "name": "Travel",
+      "description": "Destinations, travel journals, and adventures around the world.",
+      "icon": "travel_explore",
+      "color": "surface_container_high",
+      "memberCount": 37800,
+      "postCount": 4123,
+      "isJoined": false
+    }
+  ]
+}

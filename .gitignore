@@ -1,0 +1,129 @@
+# -------------------------------------------------------------------------
+# Miscellaneous / OS-specific files
+# -------------------------------------------------------------------------
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+.atom/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# -------------------------------------------------------------------------
+# IDEs and Editors
+# -------------------------------------------------------------------------
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+local.properties
+
+# Visual Studio Code
+.vscode/
+!.vscode/extensions.json
+*.code-workspace
+
+# -------------------------------------------------------------------------
+# Flutter / Dart / Pub
+# -------------------------------------------------------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+/build/
+/coverage/
+**/doc/api/
+**/ios/Flutter/.last_build_id
+ephemeral/
+
+# -------------------------------------------------------------------------
+# Platform-specific build artifacts
+# -------------------------------------------------------------------------
+# Android
+/android/app/debug
+/android/app/profile
+/android/app/release
+*.apk
+*.aab
+
+# iOS / macOS
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Pods/
+**/macOS/Flutter/ephemeral/
+**/macOS/Flutter/Generated.xcconfig
+**/macOS/Flutter/flutter_export_environment.sh
+Packages/
+DerivedData/
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+xcuserdata/
+*.xccheckout
+*.xcworkspace
+!default.xcworkspace
+xcshareddata/
+!default.xcshareddata
+*.moved-aside
+*.pinproj
+*.xccheckout
+profile
+*.ipa
+
+# Windows
+/windows/flutter/ephemeral/
+VisualStudio.opendb
+VisualStudio.sensitive
+*.user
+*.suo
+*.db
+*.ipch
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+*.vcproj
+*.filters
+*.vcxproj
+*.sln
+Backup*/
+_UpgradeReport_Files/
+Ankh.Build/
+.vs/
+
+# Linux
+/linux/flutter/ephemeral/
+
+# Web
+.environment
+/web/assets/
+
+# -------------------------------------------------------------------------
+# Secrets and configuration
+# -------------------------------------------------------------------------
+.env
+.env.*
+!*.env.example
+secrets.json

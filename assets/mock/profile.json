@@ -1,0 +1,38 @@
+{
+  "profile": {
+    "id": "user_me",
+    "username": "Alex Wanderer",
+    "bio": "Exploring the digital sanctuary one reflection at a time. Seeking balance in the noise.",
+    "role": "Mindfulness Guide",
+    "avatarUrl": "",
+    "reflectionsWritten": 124,
+    "communitiesJoined": 8,
+    "dayStreak": 14,
+    "personalBest": 32,
+    "weeklyActivity": [2, 4, 0, 6, 3, 7, 2],
+    "joinedCommunities": ["study", "mental_health", "books"],
+    "recentPosts": [
+      {
+        "id": "r1",
+        "title": "Overcoming the fear of blank pages.",
+        "excerpt": "Sometimes staring at a new journal entry feels daunting. Today I realized...",
+        "category": "Growth",
+        "timestamp": "2 hrs ago"
+      },
+      {
+        "id": "r2",
+        "title": "A quiet morning walk in the digital forest.",
+        "excerpt": "I took a moment to just breathe and watch the simulated leaves fall.",
+        "category": "Peace",
+        "timestamp": "Yesterday"
+      },
+      {
+        "id": "r3",
+        "title": "The beauty of unfinished things.",
+        "excerpt": "Not everything needs to be completed to be valuable. The process itself holds worth.",
+        "category": "Growth",
+        "timestamp": "3 days ago"
+      }
+    ]
+  }
+}

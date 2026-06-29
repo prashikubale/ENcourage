@@ -1,0 +1,40 @@
+{
+  "comments": [
+    {
+      "id": "c1",
+      "postId": "1",
+      "author": "Marcus T.",
+      "authorId": "user_10",
+      "text": "I needed to read this today. I've been struggling with feeling 'trapped' by my schedule, but reframing it as scaffolding makes so much sense.",
+      "timestamp": "2 hours ago",
+      "side": "left"
+    },
+    {
+      "id": "c2",
+      "postId": "1",
+      "author": "Sarah J.",
+      "authorId": "user_11",
+      "text": "My routine is just making my bed. It's the one thing I can control even if the rest of the day goes sideways.",
+      "timestamp": "5 hours ago",
+      "side": "right"
+    },
+    {
+      "id": "c3",
+      "postId": "2",
+      "author": "Jordan K.",
+      "authorId": "user_3",
+      "text": "Rain sounds are honestly therapeutic. There's science behind it too — pink noise.",
+      "timestamp": "1 hour ago",
+      "side": "left"
+    },
+    {
+      "id": "c4",
+      "postId": "3",
+      "author": "Dana M.",
+      "authorId": "user_7",
+      "text": "The 5-4-3-2-1 technique saved me during a panic attack once. It really works.",
+      "timestamp": "3 hours ago",
+      "side": "left"
+    }
+  ]
+}
